@@ -11,7 +11,9 @@
 ![image](https://user-images.githubusercontent.com/97486359/176806087-e5a0de57-58ca-4526-b5cc-85b26ff83f47.png)
 
 <h4>ul 과 li를 만들고 만약 새소식에 마우스을 올리면 js 파일에서</h4>
+
 ![image](https://user-images.githubusercontent.com/97486359/176805767-44623b46-8a87-48d8-bae7-b264dc00968b.png)
+
 <h4>사진과 같이 slideDown을 하고 마우스을 때면 js 파일에서 slideUp을 사용해 사라지게 할 수 있습니다.</h4>
 
 <h3>section</h3>
@@ -30,9 +32,13 @@ js 파일에서 4개의 사진들의 margin-top값을 0 과 -2000px로 사진이
 
 ![image](https://user-images.githubusercontent.com/97486359/176816686-525c30dd-fb6f-40fd-b5fc-29925a7985c5.png)
 
+<h4>table 태그을 사용앴습니다.</h4>
+
 <h3>footer</h3>
 
 ![image](https://user-images.githubusercontent.com/97486359/176817158-41e9d8f5-33dd-4f41-b003-b0f026a6b8f1.png)
 
 
 ![image](https://user-images.githubusercontent.com/97486359/176817046-903be434-834d-4ba0-9396-7c13611c133d.png)
+
+<h4>div태그을 만들고 그 안에 사진을 넣어습니다.</h4>
