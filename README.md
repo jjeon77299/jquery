@@ -53,7 +53,7 @@ js 파일에서 4개의 사진들의 margin-top값을 0 과 -2000px로 사진이
 
 ![image](https://user-images.githubusercontent.com/97486359/176827925-94ace14a-7bef-4c54-b26a-e4f14e452fd1.png)
 
-<h4>table 태그을 사용했고 css을 이용해 작업했습니다..</h4>
+<h4>table 태그을 사용했고 css을 이용해 작업했습니다.</h4>
 
 <h3>footer</h3>
 
