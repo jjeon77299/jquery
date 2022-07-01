@@ -45,15 +45,26 @@ js 파일에서 4개의 사진들의 margin-top값을 0 과 -2000px로 사진이
 
 ![image](https://user-images.githubusercontent.com/97486359/176816728-3cf9d2aa-b408-46c1-8aef-814aa6e71939.png)
 
+<h4>html</4>
+
 ![image](https://user-images.githubusercontent.com/97486359/176827750-37d0be02-7cad-4c77-a3f4-409b77c9bef8.png)
 
+<h4>css</h4>
 
-<h4>table 태그을 사용앴습니다.</h4>
+![image](https://user-images.githubusercontent.com/97486359/176827925-94ace14a-7bef-4c54-b26a-e4f14e452fd1.png)
+
+<h4>table 태그을 사용했고 css을 이용해 작업했습니다..</h4>
 
 <h3>footer</h3>
 
 ![image](https://user-images.githubusercontent.com/97486359/176817158-41e9d8f5-33dd-4f41-b003-b0f026a6b8f1.png)
 
+<h4>html</4>
+
 ![image](https://user-images.githubusercontent.com/97486359/176827768-bf80bd7c-e740-45ff-a6df-e7001c495190.png)
+
+<h4>css</h4>
+
+![image](https://user-images.githubusercontent.com/97486359/176827997-79c50647-6861-4ddb-ad42-7d8ac79258d2.png)
 
 <h4>div태그을 만들고 그 안에 사진을 넣어습니다.</h4>
