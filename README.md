@@ -1,6 +1,6 @@
 <h2>전체 화면</h2>
 
-![image](https://user-images.githubusercontent.com/97486359/176816039-6c67fe1b-5fd7-4123-bfca-a28b991b8e14.png)
+![image](https://user-images.githubusercontent.com/97486359/176818403-63968a6c-2d40-4058-838a-9dc3d05d48cf.png)
 
 <h2>코드 설명</h2>
 
